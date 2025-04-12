@@ -63,7 +63,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: slide-left
 ---
 
-<img border="rounded" style="width: 100%; height: 100%;" src="../public/スクリーンショット 2025-04-12 11.27.32.png" alt="">
+<img border="rounded" style="width: 100%; height: 100%;" src="/スクリーンショット 2025-04-12 11.27.32.png" alt="">
 
 <!-- <style> -->
 <!-- img { -->
@@ -289,7 +289,7 @@ name.noImplMethod
 <br />
 
 エラーになるコードを記述しても、エディタは何も言わない<br />
-<img class="w-80 h-15" src="./public/スクリーンショット 2025-04-07 16.26.16.png" alt="ローカル画像" />
+<img class="w-80 h-15" src="/スクリーンショット 2025-04-07 16.26.16.png" alt="ローカル画像" />
 
 ---
 transition: slide-left
@@ -349,7 +349,7 @@ transition: slide-left
 
 <br />
 
-<img class="w-100 h-15" src="./public/スクリーンショット 2025-04-07 3.19.20.png" alt="ローカル画像" />
+<img class="w-100 h-15" src="/スクリーンショット 2025-04-07 3.19.20.png" alt="ローカル画像" />
 
 ---
 transition: slide-left
@@ -364,7 +364,7 @@ transition: slide-left
 > 記述した時点で、変数に代入できる値の種類が確定する
 
 <br />
-<img class="w-100 h-42" src="./public/スクリーンショット 2025-04-10 2.23.43.png" alt="ローカル画像" />
+<img class="w-100 h-42" src="/スクリーンショット 2025-04-10 2.23.43.png" alt="ローカル画像" />
 
 ---
 transition: slide-left
@@ -421,7 +421,7 @@ let name: string = 1;
 ```
 <br />
 
-<img class="w-100 h-30" src="./public/スクリーンショット 2025-04-10 3.26.43.png" alt="ローカル画像" />
+<img class="w-100 h-30" src="/スクリーンショット 2025-04-10 3.26.43.png" alt="ローカル画像" />
 
 ---
 transition: slide-left
@@ -439,7 +439,7 @@ name.noImplMethod
 // Property 'noImplMethod' does not exist on type 'string'.
 ```
 <br />
-<img class="w-100 h-15" src="./public/スクリーンショット 2025-04-07 3.19.20.png" alt="ローカル画像" />
+<img class="w-100 h-15" src="/スクリーンショット 2025-04-07 3.19.20.png" alt="ローカル画像" />
 <br />
 
 
